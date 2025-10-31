@@ -1,6 +1,6 @@
 Initial Commit
 This is hello from Clive. I am adding a new line of code here.
-Hello again. I am here to add in a second line. I am Clive
+Main changed to force conflict - Clive
 
 Hamburger With no Pickles, Junaho Is Here
 Hello one more time.I am Anson.
